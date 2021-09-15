@@ -13,5 +13,5 @@ Detect Traffic Lights inside images, find thier positions and calculate distance
 ## Collaborators
 - [Omer Hadad](https://github.com/omerhad)
 - [Yaakov Brin](https://github.com/YB5)
-- [Netanel Tzadok]
-- [Ariel Haser]
+- Netanel Tzadok
+- Ariel Haser
